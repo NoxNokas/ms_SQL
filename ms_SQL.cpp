@@ -35,3 +35,40 @@ void __fastcall TForm1::RadioButton2Click(TObject *Sender)
 //---------------------------------------------------------------------------
 
 
+void __fastcall TForm1::N3Click(TObject *Sender)
+{
+	Form1->WindowState = wsMinimized;
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N4Click(TObject *Sender)
+{
+	Form1->WindowState = wsMaximized;
+}
+//---------------------------------------------------------------------------
+
+
+void __fastcall TForm1::N6Click(TObject *Sender)
+{
+    Form1->Close();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N5Click(TObject *Sender)
+{
+	Form1->WindowState = wsNormal;
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N7Click(TObject *Sender)
+{
+	ShowMessage(" ");
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N8Click(TObject *Sender)
+{
+	ShowMessage("Дмитрий Рогов\nАнтон Тароянц\nПолина Александрова\nАльберт Халгатян");
+}
+//---------------------------------------------------------------------------
+

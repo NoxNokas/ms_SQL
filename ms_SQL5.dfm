@@ -1,7 +1,7 @@
 object Form5: TForm5
   Left = 0
   Top = 0
-  Caption = 'Form5'
+  Caption = 'MAItravel ('#1043#1086#1088#1085#1086#1083#1099#1078#1085#1099#1081')'
   ClientHeight = 201
   ClientWidth = 447
   Color = clBtnFace
