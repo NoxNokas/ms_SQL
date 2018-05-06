@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.336,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL1.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQLf2.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQLf2.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL2.cbproj=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQLf2.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018.05.06 17:36:39.935,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2018.05.06 17:37:46.185,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL3.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2018.05.06 17:37:46.185,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL3.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2018.05.06 17:37:46.185,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL3.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2018.05.06 18:54:34.728,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2018.05.06 18:55:58.436,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL4.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2018.05.06 18:55:58.436,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL4.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2018.05.06 18:55:58.436,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL4.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2018.05.06 20:35:52.712,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2018.05.06 20:36:08.363,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL5.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>2018.05.06 20:36:08.363,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL5.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2018.05.06 20:36:08.363,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL5.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2018.05.06 20:36:21.449,=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2018.05.06 20:36:36.622,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL6.cpp=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2018.05.06 20:36:36.622,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL6.h=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>2018.05.06 20:36:36.622,C:\Users\Алик\Documents\Embarcadero\Studio\Projects\ms_SQL6.dfm=C:\Users\Алик\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
