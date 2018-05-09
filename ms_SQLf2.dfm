@@ -2,8 +2,8 @@ object Form2: TForm2
   Left = 0
   Top = 0
   Caption = 'MAItravel'
-  ClientHeight = 462
-  ClientWidth = 786
+  ClientHeight = 500
+  ClientWidth = 800
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -15,18 +15,24 @@ object Form2: TForm2
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 359
-    Top = 8
-    Width = 178
-    Height = 17
+    Left = 160
+    Top = 72
+    Width = 409
+    Height = 65
     Caption = #1047#1076#1077#1089#1100' '#1086#1090#1086#1073#1088#1072#1078#1072#1077#1090#1089#1103' '#1074#1072#1096' '#1074#1099#1073#1086#1088
     Color = clRed
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
     ParentColor = False
+    ParentFont = False
   end
   object Button1: TButton
     Left = 448
     Top = 143
-    Width = 105
+    Width = 121
     Height = 33
     Caption = #1043#1083#1072#1074#1085#1072#1103
     TabOrder = 0
@@ -43,9 +49,9 @@ object Form2: TForm2
   end
   object RadioGroup1: TRadioGroup
     Left = 8
-    Top = 8
-    Width = 337
-    Height = 129
+    Top = 183
+    Width = 770
+    Height = 271
     Caption = #1050#1072#1082#1086#1081' '#1086#1090#1076#1099#1093' '#1042#1099' '#1087#1088#1077#1076#1087#1086#1095#1080#1090#1072#1077#1090#1077'?'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -422,11 +428,22 @@ object Form2: TForm2
   end
   object Button3: TButton
     Left = 304
-    Top = 144
+    Top = 143
     Width = 121
     Height = 32
     Caption = #1047#1072#1085#1086#1074#1086
     TabOrder = 19
     OnClick = Button3Click
+  end
+  object Button4: TButton
+    Left = 160
+    Top = 143
+    Width = 121
+    Height = 33
+    Caption = #1044#1072#1083#1077#1077
+    Enabled = False
+    TabOrder = 20
+    Visible = False
+    OnClick = Button4Click
   end
 end

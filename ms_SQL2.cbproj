@@ -109,7 +109,9 @@
         <AppEnableHighDPI>true</AppEnableHighDPI>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <LinkPackageImports>rtl.bpi;vcl.bpi;dbrtl.bpi;adortl.bpi;vcldb.bpi;dbexpress.bpi;DbxCommonDriver.bpi</LinkPackageImports>
+        <DynamicRTL>false</DynamicRTL>
+        <LinkPackageStatics>rtl.lib;vcl.lib;dbrtl.lib;adortl.lib;vcldb.lib;dbexpress.lib;DbxCommonDriver.lib</LinkPackageStatics>
+        <UsePackages>false</UsePackages>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <Defines>NDEBUG;$(Defines)</Defines>
