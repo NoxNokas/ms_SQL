@@ -168,8 +168,8 @@ if (RadioGroup3->ItemIndex == 2)
 	showRadioGroup ();
 	RadioGroup11->Visible =true;
 	RadioGroup11->Enabled = true;
-	country = "Франция";
-	Label1->Caption = "Экскурсионный -> Франция -> ";
+	country = "Италия";
+	Label1->Caption = "Экскурсионный -> Италия -> ";
 }
 //Условия выбора страны для горнолыжного типа отдыха
 if (RadioGroup4->ItemIndex == 0)
@@ -221,6 +221,7 @@ if (RadioGroup5->ItemIndex == 2)
 	country = "Китай";
 	Label1->Caption = "Оздоровительный -> Китай -> ";
 }
+/////////////////////////////////////////////////////////////////
 if (RadioGroup6->ItemIndex ==0)
 {
 	Label1->Caption = "Пляжный -> Турция -> Кемер";
@@ -302,9 +303,9 @@ if (RadioGroup8->ItemIndex ==2)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup9->ItemIndex ==0)
+if (RadioGroup10->ItemIndex ==0)
 {
-	
+
 	region = "Берилин";
 	Label1->Caption = "Экскурсионный -> Германия -> Берилин";
 	Button2->Visible = false;
@@ -312,9 +313,9 @@ if (RadioGroup9->ItemIndex ==0)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup9->ItemIndex ==1)
+if (RadioGroup10->ItemIndex ==1)
 {
-	
+
 	region = "Франкфурт-на-Майне";
 	Label1->Caption = "Экскурсионный -> Германия -> Франкфурт-на-Майне";
 	Button2->Visible = false;
@@ -322,9 +323,9 @@ if (RadioGroup9->ItemIndex ==1)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup9->ItemIndex == 2)
+if (RadioGroup10->ItemIndex == 2)
 {
-	
+
 	region = "Дюссельдорф";
 	Label1->Caption = "Экскурсионный -> Германия -> Дюссельдорф";
 	Button2->Visible = false;
@@ -332,7 +333,7 @@ if (RadioGroup9->ItemIndex == 2)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup10->ItemIndex == 0)
+if (RadioGroup9->ItemIndex == 0)
 {
 	
 	region = "Прага";
@@ -342,9 +343,9 @@ if (RadioGroup10->ItemIndex == 0)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup10->ItemIndex == 1)
+if (RadioGroup9->ItemIndex == 1)
 {
-	
+
 	region = "Карловы Вары";
 	Label1->Caption = "Экскурсионный -> Чехия -> Карловы Вары";
 	Button2->Visible = false;
@@ -352,9 +353,9 @@ if (RadioGroup10->ItemIndex == 1)
 	Button4->Visible = true;
 	Button4->Enabled = true;
 }
-if (RadioGroup10->ItemIndex == 2)
+if (RadioGroup9->ItemIndex == 2)
 {
-	
+
 	region = "Брно";
 	Label1->Caption = "Экскурсионный -> Чехия -> Брно";
 	Button2->Visible = false;
@@ -485,8 +486,8 @@ if (RadioGroup14->ItemIndex == 2)
 if (RadioGroup15->ItemIndex == 0)
 {
 	
-	region = "Кавказские Минеральные Воды";
-	Label1->Caption = "Оздоровительный -> Россия -> Кавказские Минеральные Воды";
+	region = "Минеральные Воды";
+	Label1->Caption = "Оздоровительный -> Россия -> Минеральные Воды";
 	Button2->Visible = false;
 	Button2->Enabled = false;
 	Button4->Visible = true;
@@ -612,4 +613,7 @@ void __fastcall TForm2::Button4Click(TObject *Sender)
 	Form3->Show();	
 }
 //---------------------------------------------------------------------------
+
+
+
 
